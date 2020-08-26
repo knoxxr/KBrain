@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSe9zvoCRGIbI5SvgDlLjzlBiNzl1IrHiXC440I/S7uHjv5cczlEs9sqRwHm0kPCSAOfHlYW/dg6FZAgDSaVgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\knoxx\\Documents\\GitHub\\KBrain\\KBrainCore\\KBrainCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knoxx\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\knoxx\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

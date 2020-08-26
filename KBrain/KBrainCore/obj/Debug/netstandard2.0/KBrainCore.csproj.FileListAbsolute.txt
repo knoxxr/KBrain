@@ -1,0 +1,9 @@
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\bin\Debug\netstandard2.0\KBrainCore.deps.json
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\bin\Debug\netstandard2.0\KBrainCore.dll
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\bin\Debug\netstandard2.0\KBrainCore.pdb
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\obj\Debug\netstandard2.0\KBrainCore.csprojAssemblyReference.cache
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\obj\Debug\netstandard2.0\KBrainCore.AssemblyInfoInputs.cache
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\obj\Debug\netstandard2.0\KBrainCore.AssemblyInfo.cs
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\obj\Debug\netstandard2.0\KBrainCore.csproj.CoreCompileInputs.cache
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\obj\Debug\netstandard2.0\KBrainCore.dll
+C:\Users\knoxx\Documents\GitHub\KBrain\KBrainCore\obj\Debug\netstandard2.0\KBrainCore.pdb
