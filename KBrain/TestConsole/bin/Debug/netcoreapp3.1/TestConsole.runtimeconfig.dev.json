@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\knoxx\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\knoxx\\.nuget\\packages"
+    ]
+  }
+}

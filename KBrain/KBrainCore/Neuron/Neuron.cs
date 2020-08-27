@@ -9,7 +9,7 @@ namespace Marssoft.KBrainCore.Neurons
         public NeuronType _Type;
         protected CellBody _CellBody = new CellBody();
         protected List<Axon> _Outputs = new List<Axon>();
-d        protected  List<Dendrite> _Inputs = new List<Dendrite>();
+        protected  List<Dendrite> _Inputs = new List<Dendrite>();
 
         public Neuron()
         {
