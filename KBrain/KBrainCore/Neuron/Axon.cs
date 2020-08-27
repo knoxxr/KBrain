@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Marssoft.KBrainCore
+namespace Marssoft.KBrainCore.Neurons
 {
     public class Axon
     {

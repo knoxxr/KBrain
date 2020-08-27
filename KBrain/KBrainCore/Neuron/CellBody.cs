@@ -1,6 +1,6 @@
 //CellBody(세포체) Class
 using System;
-namespace Marssoft.KBrainCore
+namespace Marssoft.KBrainCore.Neurons
 {
     public class CellBody
     {
